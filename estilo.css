@@ -1,0 +1,23 @@
+/* define o estilo do corpo da página */
+body {
+    background-color: #edc1c1;
+    /* cor do fundo */
+    color: #ed0808;
+    /* cor do texto */
+    font-family: Arial, sans-serif;
+    /* fonte da página */
+    font-size: 16px;
+    /* tamanho da fonte */
+    line-height: 1.5;
+    /* linha de altura entre o texto */
+}
+
+/* define o estilo das tags de cabeçalho */
+h1,
+h2,
+h3 {
+    font-family: "Helvetica Neue", sans-serif;
+    /* fonte dos cabeçalhos */
+    color: #78b3f1;
+    /* cor do texto */
+}
